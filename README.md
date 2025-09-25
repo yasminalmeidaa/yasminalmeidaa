@@ -1,4 +1,6 @@
-## Hi there 👋
+## 💻 🤍 🖱️ Yasmin Almeida
+
+**'UX/UX Designer'**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
