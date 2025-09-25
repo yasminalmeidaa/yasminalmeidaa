@@ -1,6 +1,6 @@
 ## 💻 🤍 Yasmin Almeida
 
-**`UX/UX Designer`**
+**`UX/UX Designer`** **`Graphic Designer`**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
