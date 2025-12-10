@@ -1,5 +1,7 @@
 ## 💻 🤍 Yasmin Almeida
 
+<img align="right" alt="" height="190px" src="./src/pinguimpc.gif">
+
 **`UX/UX Designer`** **`Graphic Designer`**
 
 - 🔭 Ainda estou aprendendo programação e explorando diferentes linguagens
