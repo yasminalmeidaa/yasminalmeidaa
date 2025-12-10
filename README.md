@@ -2,8 +2,5 @@
 
 <img alt="" height="190px" src="./src/pinguimpc.gif">
 
-## Sobre mim
-- 🔭 Ainda estou aprendendo programação e explorando diferentes linguagens
-- 🌱 Tenho interesse em UX/UI Design, buscando sempre criar experiências mais bonitas e intuitivas
-- ⚡ Gosto de aprender coisas novas e de me desafiar em cada projeto
-- 😄 Estou animada para crescer na área de tecnologia e compartilhar meu progresso por aqui!
+### Sobre mim
+Sou estudante de Design Digital na Universidade Federal do Ceará. Atualmente aprendendo sobre desenvolvimento full stack e design UX/UI. Apaixonada por desenvolver ideias criativas e inovadoras que transformam o dia a dia dos usuários.
