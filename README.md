@@ -2,6 +2,7 @@
 
 <img alt="" height="190px" src="./src/pinguimpc.gif">
 
+## Sobre mim
 - 🔭 Ainda estou aprendendo programação e explorando diferentes linguagens
 - 🌱 Tenho interesse em UX/UI Design, buscando sempre criar experiências mais bonitas e intuitivas
 - ⚡ Gosto de aprender coisas novas e de me desafiar em cada projeto
