@@ -3,7 +3,8 @@
 <img alt="" height="190px" src="./src/pinguimpc.gif">
 
 ### Sobre mim ˙ᵕ˙
+**`Front-end`** **`UX/UX Designer`** **`Graphic Designer`**
 Sou estudante de Design Digital na Universidade Federal do Ceará. Atualmente aprendendo sobre desenvolvimento full stack e design UX/UI. Apaixonada por desenvolver ideias criativas e inovadoras que transformam o dia a dia dos usuários.
 
 ### Skills ⊹₊ ⋆
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,java)](https://skillicons.dev)
